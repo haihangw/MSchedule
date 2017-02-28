@@ -1,0 +1,80 @@
+[
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 318,
+  "remove": 1,
+  "text": "characters.index(s",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 328,
+  "remove": 9,
+  "text": ", offset",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 339,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 464,
+  "remove": 1,
+  "text": "characters.index(s",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 474,
+  "remove": 9,
+  "text": ", offset",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 485,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 499,
+  "remove": 6,
+  "text": "lowerBou",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 506,
+  "remove": 3,
+  "text": "d",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 529,
+  "remove": 1,
+  "text": "characters.index(s",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 539,
+  "remove": 9,
+  "text": ", offset",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 550,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 564,
+  "remove": 1,
+  "text": "upperBou",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/StringExtension.swift",
+  "offset": 566,
+  "remove": 6,
+  "text": "d",
+ }
+]

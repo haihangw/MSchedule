@@ -1,0 +1,153 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Instructor"
+provides-nominal:
+- "C11M_Scheduler10Instructor"
+provides-member:
+- ["C11M_Scheduler10Instructor", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "Instructor"
+- "NSDictionary"
+- !private "StringLiteralType"
+- !private "??"
+- !private "UnicodeScalarType"
+- "JSONInitializable"
+- "CustomStringConvertible"
+depends-member:
+- ["PSs9AnyObject", "description"]
+- !private ["PSs9AnyObject", "firstName"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "instructorName"]
+- !private ["PSs9AnyObject", "lastName"]
+- !private ["PSs9AnyObject", "lowercaseString"]
+- !private ["PSs9AnyObject", "role"]
+- !private ["PSs9AnyObject", "subscript"]
+- !private ["PSs9AnyObject", "uniqname"]
+- ["PSs9AnyObject", ""]
+- !private ["PSo15CNKeyDescriptor", "lowercaseString"]
+- !private ["PSs11CVarArgType", "lowercaseString"]
+- !private ["PSs11CVarArgType", "subscript"]
+- !private ["PSs10Comparable", "lowercaseString"]
+- !private ["PSs28CustomDebugStringConvertible", "lowercaseString"]
+- ["PSs23CustomStringConvertible", "description"]
+- !private ["PSs23CustomStringConvertible", "firstName"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "instructorName"]
+- !private ["PSs23CustomStringConvertible", "lastName"]
+- !private ["PSs23CustomStringConvertible", "lowercaseString"]
+- !private ["PSs23CustomStringConvertible", "role"]
+- !private ["PSs23CustomStringConvertible", "subscript"]
+- !private ["PSs23CustomStringConvertible", "uniqname"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs28DictionaryLiteralConvertible", "subscript"]
+- !private ["PSs9Equatable", "lowercaseString"]
+- !private ["PSs9Equatable", "subscript"]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "lowercaseString"]
+- !private ["PSs8Hashable", "lowercaseString"]
+- !private ["PSs8Hashable", "subscript"]
+- ["C11M_Scheduler10Instructor", "NSDictionary"]
+- ["C11M_Scheduler10Instructor", "String"]
+- ["C11M_Scheduler10Instructor", "deinit"]
+- ["C11M_Scheduler10Instructor", "description"]
+- ["C11M_Scheduler10Instructor", "firstName"]
+- ["C11M_Scheduler10Instructor", "init"]
+- ["C11M_Scheduler10Instructor", "instructorName"]
+- ["C11M_Scheduler10Instructor", "lastName"]
+- ["C11M_Scheduler10Instructor", "role"]
+- ["C11M_Scheduler10Instructor", "uniqname"]
+- ["P11M_Scheduler17JSONInitializable", "description"]
+- !private ["P11M_Scheduler17JSONInitializable", "firstName"]
+- ["P11M_Scheduler17JSONInitializable", "init"]
+- !private ["P11M_Scheduler17JSONInitializable", "instructorName"]
+- !private ["P11M_Scheduler17JSONInitializable", "lastName"]
+- !private ["P11M_Scheduler17JSONInitializable", "role"]
+- !private ["P11M_Scheduler17JSONInitializable", "uniqname"]
+- ["P11M_Scheduler17JSONInitializable", ""]
+- !private ["PSs14MirrorPathType", "lowercaseString"]
+- !private ["PSo8NSCoding", "lowercaseString"]
+- !private ["PSo8NSCoding", "subscript"]
+- !private ["PSo9NSCopying", "deinit"]
+- !private ["PSo9NSCopying", "lowercaseString"]
+- !private ["PSo9NSCopying", "subscript"]
+- !private ["CSo12NSDictionary", "subscript"]
+- !private ["PSo17NSFastEnumeration", "subscript"]
+- !private ["PSo16NSMutableCopying", "lowercaseString"]
+- !private ["PSo16NSMutableCopying", "subscript"]
+- !private ["CSo8NSObject", "lowercaseString"]
+- !private ["CSo8NSObject", "subscript"]
+- !private ["PSo16NSObjectProtocol", "lowercaseString"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- !private ["PSo14NSSecureCoding", "lowercaseString"]
+- !private ["PSo14NSSecureCoding", "subscript"]
+- !private ["CSo8NSString", "lowercaseString"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16OutputStreamType", "lowercaseString"]
+- !private ["PSs12SequenceType", "subscript"]
+- !private ["PSs10Streamable", "lowercaseString"]
+- !private ["SS", "deinit"]
+- !private ["SS", "lowercaseString"]
+- !private ["PSs30StringInterpolationConvertible", "lowercaseString"]
+- !private ["PSs24StringLiteralConvertible", "lowercaseString"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "lowercaseString"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "lowercaseString"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "lowercaseString"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "lowercaseString"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "lowercaseString"]
+- !private ["PSs16_CocoaStringType", "lowercaseString"]
+- !private ["PSs21_ObjectiveCBridgeable", "lowercaseString"]
+- !private ["PSs12_Reflectable", "lowercaseString"]
+- !private ["PSs12_Reflectable", "subscript"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "PSo15CNKeyDescriptor"
+- !private "PSs11CVarArgType"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "PSs28DictionaryLiteralConvertible"
+- !private "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs8Hashable"
+- "C11M_Scheduler10Instructor"
+- "P11M_Scheduler17JSONInitializable"
+- !private "PSs14MirrorPathType"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo12NSDictionary"
+- !private "PSo17NSFastEnumeration"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Sq"
+- !private "PSs16OutputStreamType"
+- !private "PSs12SequenceType"
+- !private "PSs10Streamable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs16_CocoaStringType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/EventKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Contacts.swiftmodule"
+interface-hash: "44f397bf629b9002c382b84e52e0ab76"

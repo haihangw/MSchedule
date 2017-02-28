@@ -1,0 +1,136 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EmailInstructorTableViewCell"
+provides-nominal:
+- "C11M_Scheduler28EmailInstructorTableViewCell"
+provides-member:
+- ["C11M_Scheduler28EmailInstructorTableViewCell", ""]
+provides-dynamic-lookup:
+- "displayInstructorNameButton"
+- "emailInstructorBuoon"
+depends-top-level:
+- "UITableViewCell"
+- "UIButton"
+- "EmailInstructorTableViewCell"
+depends-member:
+- ["PSs9AnyObject", "displayInstructorNameButton"]
+- ["PSs9AnyObject", "emailInstructorBuoon"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "displayInstructorNameButton"]
+- ["PSs11CVarArgType", "emailInstructorBuoon"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "displayInstructorNameButton"]
+- ["PSs23CustomStringConvertible", "emailInstructorBuoon"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", ""]
+- ["C11M_Scheduler28EmailInstructorTableViewCell", "UIButton"]
+- ["C11M_Scheduler28EmailInstructorTableViewCell", "deinit"]
+- ["C11M_Scheduler28EmailInstructorTableViewCell", "displayInstructorNameButton"]
+- ["C11M_Scheduler28EmailInstructorTableViewCell", "emailInstructorBuoon"]
+- ["C11M_Scheduler28EmailInstructorTableViewCell", "init"]
+- ["PSs9Equatable", "displayInstructorNameButton"]
+- ["PSs9Equatable", "emailInstructorBuoon"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "displayInstructorNameButton"]
+- ["PSs8Hashable", "emailInstructorBuoon"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "displayInstructorNameButton"]
+- ["PSo8NSCoding", "emailInstructorBuoon"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "displayInstructorNameButton"]
+- ["CSo8NSObject", "emailInstructorBuoon"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "displayInstructorNameButton"]
+- ["PSo16NSObjectProtocol", "emailInstructorBuoon"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "displayInstructorNameButton"]
+- ["PSo29UIAccessibilityIdentification", "emailInstructorBuoon"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "displayInstructorNameButton"]
+- ["PSo12UIAppearance", "emailInstructorBuoon"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "displayInstructorNameButton"]
+- ["PSo21UIAppearanceContainer", "emailInstructorBuoon"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "displayInstructorNameButton"]
+- ["PSo17UICoordinateSpace", "emailInstructorBuoon"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "displayInstructorNameButton"]
+- ["PSo13UIDynamicItem", "emailInstructorBuoon"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "displayInstructorNameButton"]
+- ["PSo18UIFocusEnvironment", "emailInstructorBuoon"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "displayInstructorNameButton"]
+- ["PSo27UIGestureRecognizerDelegate", "emailInstructorBuoon"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "displayInstructorNameButton"]
+- ["CSo11UIResponder", "emailInstructorBuoon"]
+- ["CSo11UIResponder", "init"]
+- ["CSo15UITableViewCell", "UIButton"]
+- ["CSo15UITableViewCell", "displayInstructorNameButton"]
+- ["CSo15UITableViewCell", "emailInstructorBuoon"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "displayInstructorNameButton"]
+- ["PSo18UITraitEnvironment", "emailInstructorBuoon"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIButton"]
+- ["CSo6UIView", "displayInstructorNameButton"]
+- ["CSo6UIView", "emailInstructorBuoon"]
+- ["CSo6UIView", "init"]
+- ["PSs12_Reflectable", "displayInstructorNameButton"]
+- ["PSs12_Reflectable", "emailInstructorBuoon"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "C11M_Scheduler28EmailInstructorTableViewCell"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+interface-hash: "ad33da23e2d874b9876f103dbb0285fc"

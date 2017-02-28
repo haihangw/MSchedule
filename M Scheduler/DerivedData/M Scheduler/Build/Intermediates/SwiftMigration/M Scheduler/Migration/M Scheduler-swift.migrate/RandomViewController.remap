@@ -1,0 +1,39 @@
+[
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 2133,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 2138,
+  "remove": 10,
+  "text": "())",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 3598,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 3825,
+  "remove": 13,
+  "text": "(in ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 3981,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 4185,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/RandomViewController.swift",
+  "offset": 6996,
+  "text": "_ ",
+ }
+]

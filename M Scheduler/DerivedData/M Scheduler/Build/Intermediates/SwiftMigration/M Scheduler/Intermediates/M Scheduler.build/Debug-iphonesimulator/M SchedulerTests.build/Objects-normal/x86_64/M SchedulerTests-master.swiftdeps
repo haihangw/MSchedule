@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0af2c7f9f2663755a23f353a04dc750c"
+build_time: [541623635, 155311000]
+inputs:
+  "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M SchedulerTests/M_SchedulerTests.swift": [501727122, 0]

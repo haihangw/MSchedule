@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="icon" translatesAutoresizingMaskIntoConstraints="NO" id="52E-Bb-Cvv">
+                                <rect key="frame" x="175" y="93" width="250" height="250"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="52E-Bb-Cvv" secondAttribute="height" multiplier="1:1" id="I5m-QB-3ES"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o1M-y9-F2N">
+                                <rect key="frame" x="175" y="407" width="250" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="o1M-y9-F2N" secondAttribute="height" multiplier="5:2" id="adn-7e-C3L"/>
+                                </constraints>
+                                <attributedString key="attributedText">
+                                    <fragment content="M Guide">
+                                        <attributes>
+                                            <color key="NSColor" cyan="0.0" magenta="0.17999999999999999" yellow="1" black="0.0" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                                            <font key="NSFont" size="50" name="Georgia-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" cyan="1" magenta="0.59999999999999998" yellow="0.0" black="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="genericCMYKColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="o1M-y9-F2N" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="7TL-Ak-Iql"/>
+                            <constraint firstItem="o1M-y9-F2N" firstAttribute="top" secondItem="52E-Bb-Cvv" secondAttribute="bottom" constant="64" id="Ip1-n1-suj"/>
+                            <constraint firstItem="52E-Bb-Cvv" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="73" id="MW4-4K-YYu"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="o1M-y9-F2N" secondAttribute="bottom" constant="93" id="OAh-i3-6wV"/>
+                            <constraint firstItem="52E-Bb-Cvv" firstAttribute="centerX" secondItem="o1M-y9-F2N" secondAttribute="centerX" id="rB2-qG-MA6"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="icon" width="403" height="403"/>
+    </resources>
+</document>

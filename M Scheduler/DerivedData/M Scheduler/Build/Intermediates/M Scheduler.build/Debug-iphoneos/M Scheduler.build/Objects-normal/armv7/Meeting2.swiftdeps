@@ -1,0 +1,242 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Meeting2"
+provides-nominal:
+- "C11M_Scheduler8Meeting2"
+provides-member:
+- ["C11M_Scheduler8Meeting2", ""]
+provides-dynamic-lookup:
+- "coordinate"
+- "locationName"
+- "mapItem"
+- "subtitle"
+- "title"
+- "discipline"
+depends-top-level:
+- "MKMapItem"
+- "Meeting2"
+- "MKAnnotation"
+- "CLLocationCoordinate2D"
+- !private "AnyObject"
+- !private "Dictionary"
+- !private "CNPostalAddressStreetKey"
+- "String"
+- !private "StringLiteralType"
+- "NSObject"
+- !private "MKPlacemark"
+depends-member:
+- !private ["PSs9AnyObject", "CNPostalAddressStreetKey"]
+- !private ["PSs9AnyObject", "MKMapItem"]
+- !private ["PSs9AnyObject", "MKPlacemark"]
+- !private ["PSs9AnyObject", "String"]
+- ["PSs9AnyObject", "coordinate"]
+- ["PSs9AnyObject", "discipline"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "locationName"]
+- ["PSs9AnyObject", "mapItem"]
+- !private ["PSs9AnyObject", "name"]
+- ["PSs9AnyObject", "subtitle"]
+- ["PSs9AnyObject", "title"]
+- ["PSs9AnyObject", ""]
+- !private ["CSo11CLPlacemark", "init"]
+- !private ["PSs11CVarArgType", "CNPostalAddressStreetKey"]
+- !private ["PSs11CVarArgType", "MKMapItem"]
+- !private ["PSs11CVarArgType", "MKPlacemark"]
+- !private ["PSs11CVarArgType", "String"]
+- ["PSs11CVarArgType", "coordinate"]
+- ["PSs11CVarArgType", "discipline"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "locationName"]
+- ["PSs11CVarArgType", "mapItem"]
+- !private ["PSs11CVarArgType", "name"]
+- ["PSs11CVarArgType", "subtitle"]
+- ["PSs11CVarArgType", "title"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "Key"]
+- !private ["PSs14CollectionType", "Value"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "Key"]
+- !private ["PSs28CustomDebugStringConvertible", "Value"]
+- !private ["PSs28CustomDebugStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "CNPostalAddressStreetKey"]
+- !private ["PSs23CustomStringConvertible", "Key"]
+- !private ["PSs23CustomStringConvertible", "MKMapItem"]
+- !private ["PSs23CustomStringConvertible", "MKPlacemark"]
+- !private ["PSs23CustomStringConvertible", "String"]
+- !private ["PSs23CustomStringConvertible", "Value"]
+- ["PSs23CustomStringConvertible", "coordinate"]
+- ["PSs23CustomStringConvertible", "discipline"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "locationName"]
+- ["PSs23CustomStringConvertible", "mapItem"]
+- !private ["PSs23CustomStringConvertible", "name"]
+- ["PSs23CustomStringConvertible", "subtitle"]
+- ["PSs23CustomStringConvertible", "title"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["VSs10Dictionary", "Key"]
+- !private ["VSs10Dictionary", "Value"]
+- !private ["PSs28DictionaryLiteralConvertible", "Key"]
+- !private ["PSs28DictionaryLiteralConvertible", "Value"]
+- !private ["PSs9Equatable", "CNPostalAddressStreetKey"]
+- !private ["PSs9Equatable", "MKMapItem"]
+- !private ["PSs9Equatable", "MKPlacemark"]
+- !private ["PSs9Equatable", "String"]
+- ["PSs9Equatable", "coordinate"]
+- ["PSs9Equatable", "discipline"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "locationName"]
+- ["PSs9Equatable", "mapItem"]
+- !private ["PSs9Equatable", "name"]
+- ["PSs9Equatable", "subtitle"]
+- ["PSs9Equatable", "title"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs8Hashable", "CNPostalAddressStreetKey"]
+- !private ["PSs8Hashable", "MKMapItem"]
+- !private ["PSs8Hashable", "MKPlacemark"]
+- !private ["PSs8Hashable", "String"]
+- ["PSs8Hashable", "coordinate"]
+- ["PSs8Hashable", "discipline"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "locationName"]
+- ["PSs8Hashable", "mapItem"]
+- !private ["PSs8Hashable", "name"]
+- ["PSs8Hashable", "subtitle"]
+- ["PSs8Hashable", "title"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Key"]
+- !private ["PSs9Indexable", "Value"]
+- !private ["PSo12MKAnnotation", "CNPostalAddressStreetKey"]
+- !private ["PSo12MKAnnotation", "MKMapItem"]
+- !private ["PSo12MKAnnotation", "MKPlacemark"]
+- !private ["PSo12MKAnnotation", "String"]
+- ["PSo12MKAnnotation", "coordinate"]
+- !private ["PSo12MKAnnotation", "discipline"]
+- !private ["PSo12MKAnnotation", "init"]
+- !private ["PSo12MKAnnotation", "locationName"]
+- ["PSo12MKAnnotation", "subtitle"]
+- ["PSo12MKAnnotation", "title"]
+- ["PSo12MKAnnotation", ""]
+- !private ["CSo9MKMapItem", "init"]
+- !private ["CSo9MKMapItem", "name"]
+- !private ["CSo11MKPlacemark", "init"]
+- !private ["C11M_Scheduler8Meeting2", "AnyObject"]
+- ["C11M_Scheduler8Meeting2", "CLLocationCoordinate2D"]
+- !private ["C11M_Scheduler8Meeting2", "CNPostalAddressStreetKey"]
+- ["C11M_Scheduler8Meeting2", "MKMapItem"]
+- !private ["C11M_Scheduler8Meeting2", "MKPlacemark"]
+- ["C11M_Scheduler8Meeting2", "String"]
+- ["C11M_Scheduler8Meeting2", "coordinate"]
+- ["C11M_Scheduler8Meeting2", "deinit"]
+- ["C11M_Scheduler8Meeting2", "discipline"]
+- ["C11M_Scheduler8Meeting2", "init"]
+- ["C11M_Scheduler8Meeting2", "locationName"]
+- ["C11M_Scheduler8Meeting2", "mapItem"]
+- ["C11M_Scheduler8Meeting2", "subtitle"]
+- ["C11M_Scheduler8Meeting2", "title"]
+- !private ["PSs14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- !private ["CSo8NSObject", "CNPostalAddressStreetKey"]
+- ["CSo8NSObject", "MKMapItem"]
+- !private ["CSo8NSObject", "MKPlacemark"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "coordinate"]
+- ["CSo8NSObject", "discipline"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "locationName"]
+- ["CSo8NSObject", "mapItem"]
+- !private ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "subtitle"]
+- ["CSo8NSObject", "title"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "CNPostalAddressStreetKey"]
+- !private ["PSo16NSObjectProtocol", "MKMapItem"]
+- !private ["PSo16NSObjectProtocol", "MKPlacemark"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- ["PSo16NSObjectProtocol", "coordinate"]
+- ["PSo16NSObjectProtocol", "discipline"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "locationName"]
+- ["PSo16NSObjectProtocol", "mapItem"]
+- !private ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "subtitle"]
+- ["PSo16NSObjectProtocol", "title"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16OutputStreamType", "init"]
+- !private ["PSs12SequenceType", "Key"]
+- !private ["PSs12SequenceType", "Value"]
+- !private ["VSs12StaticString", "deinit"]
+- !private ["PSs10Streamable", "init"]
+- !private ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["PSs30StringInterpolationConvertible", "init"]
+- !private ["PSs24StringLiteralConvertible", "init"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "init"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "Key"]
+- !private ["PSs21_ObjectiveCBridgeable", "Value"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs12_Reflectable", "Key"]
+- !private ["PSs12_Reflectable", "Value"]
+- !private ["PSs12_Reflectable", "init"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "CSo11CLPlacemark"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "VSs10Dictionary"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- "PSo12MKAnnotation"
+- !private "CSo9MKMapItem"
+- !private "CSo11MKPlacemark"
+- "C11M_Scheduler8Meeting2"
+- !private "PSs14MirrorPathType"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- !private "PSs16OutputStreamType"
+- !private "PSs12SequenceType"
+- !private "VSs12StaticString"
+- !private "PSs10Streamable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/EventKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Contacts.swiftmodule"
+interface-hash: "0059b6bb38b00294758c19989ceb7cd9"

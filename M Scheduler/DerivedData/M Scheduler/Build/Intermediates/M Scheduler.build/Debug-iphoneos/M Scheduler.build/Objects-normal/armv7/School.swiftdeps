@@ -1,0 +1,98 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "School"
+provides-nominal:
+- "C11M_Scheduler6School"
+provides-member:
+- ["C11M_Scheduler6School", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- !private "UnicodeScalarType"
+- "School"
+- !private "??"
+- "CustomStringConvertible"
+- "JSONInitializable"
+- !private "StringLiteralType"
+- "NSDictionary"
+depends-member:
+- !private ["PSs9AnyObject", "code"]
+- ["PSs9AnyObject", "description"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "name"]
+- !private ["PSs9AnyObject", "shortName"]
+- !private ["PSs9AnyObject", "subscript"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "subscript"]
+- !private ["PSs23CustomStringConvertible", "code"]
+- ["PSs23CustomStringConvertible", "description"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "name"]
+- !private ["PSs23CustomStringConvertible", "shortName"]
+- !private ["PSs23CustomStringConvertible", "subscript"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs28DictionaryLiteralConvertible", "subscript"]
+- !private ["PSs9Equatable", "subscript"]
+- !private ["PSs8Hashable", "subscript"]
+- !private ["P11M_Scheduler17JSONInitializable", "code"]
+- ["P11M_Scheduler17JSONInitializable", "description"]
+- ["P11M_Scheduler17JSONInitializable", "init"]
+- !private ["P11M_Scheduler17JSONInitializable", "name"]
+- !private ["P11M_Scheduler17JSONInitializable", "shortName"]
+- ["P11M_Scheduler17JSONInitializable", ""]
+- !private ["PSo8NSCoding", "subscript"]
+- !private ["PSo9NSCopying", "deinit"]
+- !private ["PSo9NSCopying", "subscript"]
+- !private ["CSo12NSDictionary", "subscript"]
+- !private ["PSo17NSFastEnumeration", "subscript"]
+- !private ["PSo16NSMutableCopying", "subscript"]
+- !private ["CSo8NSObject", "subscript"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- !private ["PSo14NSSecureCoding", "subscript"]
+- !private ["Sq", "deinit"]
+- ["C11M_Scheduler6School", "NSDictionary"]
+- ["C11M_Scheduler6School", "String"]
+- ["C11M_Scheduler6School", "code"]
+- ["C11M_Scheduler6School", "deinit"]
+- ["C11M_Scheduler6School", "description"]
+- ["C11M_Scheduler6School", "init"]
+- ["C11M_Scheduler6School", "name"]
+- ["C11M_Scheduler6School", "shortName"]
+- !private ["PSs12SequenceType", "subscript"]
+- !private ["SS", "deinit"]
+- !private ["PSs12_Reflectable", "subscript"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- !private "PSs28DictionaryLiteralConvertible"
+- !private "PSs9Equatable"
+- !private "PSs8Hashable"
+- "P11M_Scheduler17JSONInitializable"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo12NSDictionary"
+- !private "PSo17NSFastEnumeration"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- "C11M_Scheduler6School"
+- !private "PSs12SequenceType"
+- !private "SS"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/EventKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Contacts.swiftmodule"
+interface-hash: "eaf39e32d7a599cc3b4989c45a4e4811"

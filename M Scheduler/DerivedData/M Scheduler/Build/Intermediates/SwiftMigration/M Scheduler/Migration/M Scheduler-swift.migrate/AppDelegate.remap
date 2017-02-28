@@ -1,0 +1,44 @@
+[
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 277,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 351,
+  "remove": 8,
+  "text": "UIApplicationLaunchOptionsKey",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 363,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 518,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 1036,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 1474,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 1705,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/AppDelegate.swift",
+  "offset": 1971,
+  "text": "_ ",
+ }
+]

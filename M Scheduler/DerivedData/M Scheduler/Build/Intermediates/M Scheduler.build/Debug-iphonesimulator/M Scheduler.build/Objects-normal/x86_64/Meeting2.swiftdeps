@@ -1,0 +1,293 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Meeting2"
+provides-nominal:
+- "C11M_Scheduler8Meeting2"
+provides-member:
+- ["C11M_Scheduler8Meeting2", ""]
+provides-dynamic-lookup:
+- "coordinate"
+- "mapItem"
+- "discipline"
+- "locationName"
+- "subtitle"
+- "title"
+depends-top-level:
+- !private "MKPlacemark"
+- "CLLocationCoordinate2D"
+- "AssignmentPrecedence"
+- "String"
+- "CastingPrecedence"
+- "NSObject"
+- !private "AnyObject"
+- !private "StringLiteralType"
+- !private "CNPostalAddressStreetKey"
+- "MKMapItem"
+- "Meeting2"
+- "MKAnnotation"
+- !private "Dictionary"
+depends-member:
+- !private ["Ps9AnyObject", "CNPostalAddressStreetKey"]
+- !private ["Ps9AnyObject", "MKMapItem"]
+- !private ["Ps9AnyObject", "MKPlacemark"]
+- !private ["Ps9AnyObject", "String"]
+- ["Ps9AnyObject", "coordinate"]
+- ["Ps9AnyObject", "deinit"]
+- ["Ps9AnyObject", "discipline"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "locationName"]
+- ["Ps9AnyObject", "mapItem"]
+- !private ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "subtitle"]
+- ["Ps9AnyObject", "title"]
+- ["Ps9AnyObject", ""]
+- ["VSC22CLLocationCoordinate2D", "deinit"]
+- !private ["CSo11CLPlacemark", "init"]
+- !private ["Ps7CVarArg", "CNPostalAddressStreetKey"]
+- !private ["Ps7CVarArg", "Key"]
+- !private ["Ps7CVarArg", "MKMapItem"]
+- !private ["Ps7CVarArg", "MKPlacemark"]
+- !private ["Ps7CVarArg", "String"]
+- !private ["Ps7CVarArg", "Value"]
+- ["Ps7CVarArg", "coordinate"]
+- ["Ps7CVarArg", "discipline"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "locationName"]
+- ["Ps7CVarArg", "mapItem"]
+- !private ["Ps7CVarArg", "name"]
+- ["Ps7CVarArg", "subtitle"]
+- ["Ps7CVarArg", "title"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Key"]
+- !private ["Ps10Collection", "Value"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "CNPostalAddressStreetKey"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "MKMapItem"]
+- !private ["Ps28CustomDebugStringConvertible", "MKPlacemark"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- ["Ps28CustomDebugStringConvertible", "coordinate"]
+- ["Ps28CustomDebugStringConvertible", "discipline"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "locationName"]
+- ["Ps28CustomDebugStringConvertible", "mapItem"]
+- !private ["Ps28CustomDebugStringConvertible", "name"]
+- ["Ps28CustomDebugStringConvertible", "subtitle"]
+- ["Ps28CustomDebugStringConvertible", "title"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "CNPostalAddressStreetKey"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "MKMapItem"]
+- !private ["Ps23CustomStringConvertible", "MKPlacemark"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- ["Ps23CustomStringConvertible", "coordinate"]
+- ["Ps23CustomStringConvertible", "discipline"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "locationName"]
+- ["Ps23CustomStringConvertible", "mapItem"]
+- !private ["Ps23CustomStringConvertible", "name"]
+- ["Ps23CustomStringConvertible", "subtitle"]
+- ["Ps23CustomStringConvertible", "title"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Ps9Equatable", "CNPostalAddressStreetKey"]
+- !private ["Ps9Equatable", "MKMapItem"]
+- !private ["Ps9Equatable", "MKPlacemark"]
+- !private ["Ps9Equatable", "String"]
+- ["Ps9Equatable", "coordinate"]
+- ["Ps9Equatable", "discipline"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "locationName"]
+- ["Ps9Equatable", "mapItem"]
+- !private ["Ps9Equatable", "name"]
+- ["Ps9Equatable", "subtitle"]
+- ["Ps9Equatable", "title"]
+- ["Ps9Equatable", ""]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "CNPostalAddressStreetKey"]
+- !private ["Ps8Hashable", "MKMapItem"]
+- !private ["Ps8Hashable", "MKPlacemark"]
+- !private ["Ps8Hashable", "String"]
+- ["Ps8Hashable", "coordinate"]
+- ["Ps8Hashable", "discipline"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "locationName"]
+- ["Ps8Hashable", "mapItem"]
+- !private ["Ps8Hashable", "name"]
+- ["Ps8Hashable", "subtitle"]
+- ["Ps8Hashable", "title"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps13IndexableBase", "Key"]
+- !private ["Ps13IndexableBase", "Value"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["PSo12MKAnnotation", "CNPostalAddressStreetKey"]
+- !private ["PSo12MKAnnotation", "MKMapItem"]
+- !private ["PSo12MKAnnotation", "MKPlacemark"]
+- !private ["PSo12MKAnnotation", "String"]
+- ["PSo12MKAnnotation", "coordinate"]
+- !private ["PSo12MKAnnotation", "discipline"]
+- !private ["PSo12MKAnnotation", "init"]
+- !private ["PSo12MKAnnotation", "locationName"]
+- ["PSo12MKAnnotation", "subtitle"]
+- ["PSo12MKAnnotation", "title"]
+- ["PSo12MKAnnotation", ""]
+- ["CSo9MKMapItem", "deinit"]
+- !private ["CSo9MKMapItem", "init"]
+- !private ["CSo9MKMapItem", "name"]
+- ["CSo11MKPlacemark", "deinit"]
+- !private ["CSo11MKPlacemark", "init"]
+- !private ["C11M_Scheduler8Meeting2", "AnyObject"]
+- ["C11M_Scheduler8Meeting2", "CLLocationCoordinate2D"]
+- !private ["C11M_Scheduler8Meeting2", "CNPostalAddressStreetKey"]
+- ["C11M_Scheduler8Meeting2", "MKMapItem"]
+- !private ["C11M_Scheduler8Meeting2", "MKPlacemark"]
+- ["C11M_Scheduler8Meeting2", "String"]
+- ["C11M_Scheduler8Meeting2", "coordinate"]
+- ["C11M_Scheduler8Meeting2", "deinit"]
+- ["C11M_Scheduler8Meeting2", "discipline"]
+- ["C11M_Scheduler8Meeting2", "init"]
+- ["C11M_Scheduler8Meeting2", "locationName"]
+- ["C11M_Scheduler8Meeting2", "mapItem"]
+- ["C11M_Scheduler8Meeting2", "subtitle"]
+- ["C11M_Scheduler8Meeting2", "title"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- !private ["CSo8NSObject", "CNPostalAddressStreetKey"]
+- ["CSo8NSObject", "MKMapItem"]
+- !private ["CSo8NSObject", "MKPlacemark"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "coordinate"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "discipline"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "locationName"]
+- ["CSo8NSObject", "mapItem"]
+- !private ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "subtitle"]
+- ["CSo8NSObject", "title"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "CNPostalAddressStreetKey"]
+- !private ["PSo16NSObjectProtocol", "MKMapItem"]
+- !private ["PSo16NSObjectProtocol", "MKPlacemark"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- ["PSo16NSObjectProtocol", "coordinate"]
+- ["PSo16NSObjectProtocol", "discipline"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "locationName"]
+- ["PSo16NSObjectProtocol", "mapItem"]
+- !private ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "subtitle"]
+- ["PSo16NSObjectProtocol", "title"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- !private ["Ps8Sequence", "Key"]
+- !private ["Ps8Sequence", "Value"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["Su", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "CNPostalAddressStreetKey"]
+- !private ["Ps9_Hashable", "MKMapItem"]
+- !private ["Ps9_Hashable", "MKPlacemark"]
+- !private ["Ps9_Hashable", "String"]
+- ["Ps9_Hashable", "coordinate"]
+- ["Ps9_Hashable", "discipline"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "locationName"]
+- ["Ps9_Hashable", "mapItem"]
+- !private ["Ps9_Hashable", "name"]
+- ["Ps9_Hashable", "subtitle"]
+- ["Ps9_Hashable", "title"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "VSC22CLLocationCoordinate2D"
+- !private "CSo11CLPlacemark"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Ps9Equatable"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Ps25LosslessStringConvertible"
+- "PSo12MKAnnotation"
+- "CSo9MKMapItem"
+- "CSo11MKPlacemark"
+- "C11M_Scheduler8Meeting2"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Os5Never"
+- "Sq"
+- !private "Ps8Sequence"
+- "Vs12StaticString"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "Su"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+interface-hash: "0059b6bb38b00294758c19989ceb7cd9"

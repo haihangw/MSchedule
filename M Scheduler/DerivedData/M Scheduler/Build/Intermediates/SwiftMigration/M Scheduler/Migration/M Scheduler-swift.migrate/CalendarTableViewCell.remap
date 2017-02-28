@@ -1,0 +1,103 @@
+[
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 558,
+  "remove": 3,
+  "text": " ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 581,
+  "remove": 15,
+  "text": "d",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 631,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 965,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 970,
+  "remove": 10,
+  "text": "())",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 1100,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 1105,
+  "remove": 10,
+  "text": "())",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 1222,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 1712,
+  "remove": 1,
+  "text": "(f",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 1718,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2021,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2026,
+  "remove": 10,
+  "text": "())",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2102,
+  "remove": 4,
+  "text": "(of: f",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2149,
+  "remove": 8,
+  "text": "(at: ",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2343,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2348,
+  "remove": 10,
+  "text": "())",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2640,
+  "text": ": UIControl",
+ },
+ {
+  "file": "/Users/hedgewang/Desktop/Courses/1st Semester/EECS 183/iOS_16_repository/M Scheduler/M Scheduler/CalendarTableViewCell.swift",
+  "offset": 2645,
+  "remove": 10,
+  "text": "())",
+ }
+]

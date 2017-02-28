@@ -1,0 +1,157 @@
+/* -, Author: */
+", Author: " = ", Autor: ";
+
+/* , Published by */
+", Published by " = ", Publicado por ";
+
+/* -\nAcademic Group: */
+"Academic Group: " = "Grupo Académico: ";
+
+/* -Add to Calendar */
+"Add to Calendar" = "Añadir al Calendario";
+
+/* -Add to Favorite */
+"Add to Favorite" = "Añadir al Favorito";
+
+/* -Add to Schedule */
+"Add to Schedule" = "Añadir al Horario";
+
+/* -\nAvailable Seats: */
+"Available Seats: " = "Asientos Disponibles: ";
+
+/* -Course Description: */
+"Course Description: " = "Descripción del Curso: ";
+
+/* -Course description not available. */
+"Course description not available." = "La descripción del curso no está disponible.";
+
+/* -Credits: */
+"Credits: " = "Créditos: ";
+
+/* -Day/Time: */
+"Day/Time: " = "Día/Hora: ";
+
+/* -End Date: */
+"End Date: " = "Fecha Final: ";
+
+/* -\nEnrollment Capacity: */
+"Enrollment Capacity: " = "Capacidad de Inscripción: ";
+
+/* -Fall */
+"Fall" = "Otoño";
+
+/* -Fall 2015 */
+"Fall 2015" = "Otoño 2015";
+
+/* -Instructor Name: */
+"Instructor Name: " = "Nombre del Instructor: ";
+
+/* -Instructors: */
+"Instructors:" = "Instructores:";
+
+/* -Location Not Found */
+"Location Not Found" = "Ubicación No Encontrado";
+
+/* -Locations: */
+"Locations: " = "Ubicaciones: ";
+
+/* -Map */
+"Map" = "Mapa";
+
+/* -Meeting Number: */
+"Meeting Number: " = "Número de Reuniones: ";
+
+/* -Meetings: */
+"Meetings: " = "Reuniones: ";
+
+/* -My Favorite */
+"My Favorite" = "Mi Favorito";
+
+/* -No Course Description */
+"No Course Description" = "No Hay Descripción del Curso";
+
+/* -No Instructors */
+"No Instructors" = "No Hay Instructores";
+
+/* -No Meetings Available at This Moment */
+"No Meetings Available at This Moment" = "No Hay Reuniones en Este Momento";
+
+/* -No Textbooks */
+"No Textbooks" = "No Hay Libros de Texto";
+
+/* -No Topic Description Available */
+"No Topic Description Available" = "No Hay Descripción del Tema Disponible";
+
+/* -Remove from Calendar */
+"Remove from Calendar" = "Quitar del Calendario";
+
+/* -Remove from Favorite */
+"Remove from Favorite" = "Quitar del Favorito";
+
+/* -Remove from Schedule */
+"Remove from Schedule" = "Quitar del Horario";
+
+/* -Section Details: */
+"Section Details: " = "Detalles de la Sección: ";
+
+/* -\nSection Type Name: */
+"Section Type Name: " = "Nombre del Tipo de la Sección: ";
+
+/* -Section: */
+"Section:" = "Sección:";
+
+/* -Select a Term, Then Click 🎲 Below */
+"Select a Term, Then Click 🎲 Below" = "Seleccione un semestre, luego haga clic en 🎲";
+
+/* -\nSession Description: */
+"Session Description: " = "Descripción de la Sección: ";
+
+/* -Spring */
+"Spring" = "Primavera";
+
+/* -Spring 2016 */
+"Spring 2016" = "Primavera 2016";
+
+/* -Spring/Summer
+   Spring/Summer */
+"Spring/Summer" = "Primavera/Verano";
+
+/* -Spring/Summer 2016 */
+"Spring/Summer 2016" = "Primavera/Verano 2016";
+
+/* -Start Date: */
+"Start Date: " = "Fecha Inicial: ";
+
+/* -Summer */
+"Summer" = "Verano";
+
+/* -Summer 2016 */
+"Summer 2016" = "Verano 2016";
+
+/* -Textbooks: */
+"Textbooks: " = "Libros de Texto: ";
+
+/* -To be decided! */
+"To be decided!" = "¡Ser Decidido!";
+
+/* -Topic Description: */
+"Topic Description: " = "Descripción del Tema: ";
+
+/* -\nTotal Enrollment: */
+"Total Enrollment: " = "Inscripción Total: ";
+
+/* -\nTotal Waitlist: */
+"Total Waitlist: " = "Lista de Espera Total: ";
+
+/* -Try Again! Better Luck Next Time! */
+"Try Again! Better Luck Next Time!" = "¡Vuelva Probarlo! ¡Mejor Suerte la Próxima Vez!";
+
+/* -\nWaitlist Capacity: */
+"Waitlist Capacity: " = "Capacidad de Lista de Espera: ";
+
+/* -Winter */
+"Winter" = "Invierno";
+
+/* -Winter 2016 */
+"Winter 2016" = "Invierno 2016";
+
